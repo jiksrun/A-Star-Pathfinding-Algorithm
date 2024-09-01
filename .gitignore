@@ -17,6 +17,7 @@
 *.idb
 
 # Build output directories
+a_star/x64/
 x64/Debug/
 x64/Release/
 
