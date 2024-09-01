@@ -37,6 +37,3 @@ vcpkg.applocal.log
 *.ipch
 *.tlog
 *.vscode/
-
-# Python virtual environment (if used)
-venv/
