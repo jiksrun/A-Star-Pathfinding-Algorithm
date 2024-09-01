@@ -1,0 +1,41 @@
+# Visual Studio specific files
+.vs/
+*.suo
+*.user
+*.VC.db
+*.opendb
+*.VC.opendb
+
+# Build artifacts
+*.obj
+*.exe
+*.dll
+*.lib
+*.ilk
+*.log
+*.pdb
+*.idb
+
+# Build output directories
+x64/Debug/
+x64/Release/
+
+# vcpkg output
+vcpkg.applocal.log
+
+# Backup & temporary files
+*.bak
+*.tmp
+*.temp
+
+# Other temporary or transient files
+*.cache
+*.caches
+*.idx
+*.intermediate
+*.ipch
+*.tlog
+*.vscode/
+
+# Python virtual environment (if used)
+venv/
